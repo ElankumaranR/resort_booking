@@ -22,3 +22,20 @@ This system is for one resort where users can book a stay and admins can manage 
 * **For Admins**:
     Admin Login → Dashboard → Manage Resort → View Bookings → Cancel/Update Bookings
 
+## Pages:
+
+![sign up](./img/p1.png)
+
+![login](./img/p2.png)
+
+![Admin page](./img/p3.png)
+
+![User page](./img/p8.png)
+
+![details page](./img/p7.png)
+
+![booking page](./img/p6.png)
+
+![succes page](./img/p5.png)
+
+![My bookings](./img/p4.png)
